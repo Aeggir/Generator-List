@@ -1,0 +1,6 @@
+06.09.2017 15:10:06 Indeks wykraczał poza granice tablicy.
+06.09.2017 15:10:14 Indeks wykraczał poza granice tablicy.
+06.09.2017 15:11:30 Indeks wykraczał poza granice tablicy.
+06.09.2017 15:12:58 Indeks wykraczał poza granice tablicy.
+06.09.2017 15:13:10 Indeks wykraczał poza granice tablicy.
+06.09.2017 15:14:16 Indeks wykraczał poza granice tablicy.

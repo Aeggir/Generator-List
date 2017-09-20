@@ -1,0 +1,9 @@
+c:\users\tomek\documents\visual studio 2015\Projects\Generator list\Generator list\bin\Debug\Generator list.exe.config
+c:\users\tomek\documents\visual studio 2015\Projects\Generator list\Generator list\bin\Debug\Generator list.exe
+c:\users\tomek\documents\visual studio 2015\Projects\Generator list\Generator list\bin\Debug\Generator list.pdb
+c:\users\tomek\documents\visual studio 2015\Projects\Generator list\Generator list\obj\Debug\Generator list.csprojResolveAssemblyReference.cache
+c:\users\tomek\documents\visual studio 2015\Projects\Generator list\Generator list\obj\Debug\Generator_list.Form1.resources
+c:\users\tomek\documents\visual studio 2015\Projects\Generator list\Generator list\obj\Debug\Generator_list.Properties.Resources.resources
+c:\users\tomek\documents\visual studio 2015\Projects\Generator list\Generator list\obj\Debug\Generator list.csproj.GenerateResource.Cache
+c:\users\tomek\documents\visual studio 2015\Projects\Generator list\Generator list\obj\Debug\Generator list.exe
+c:\users\tomek\documents\visual studio 2015\Projects\Generator list\Generator list\obj\Debug\Generator list.pdb
